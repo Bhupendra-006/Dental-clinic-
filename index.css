@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.jumbotron {
+	height:500px;
+    background: #f8f9fa;
+    padding: 2rem;
+	background-image:url('den1.jpg');
+	background-size:100% 100%;
+}
+ .about-title {
+            margin-top: 15px;
+            margin-left: 100px;
+        }
+        .about-image {
+            height: 250px;
+            width: 400px;
+			
+			    padding-top: 20px;
+				padding-bottom: 20px;
+				
+           
+        }
+
+footer {
+    background: #343a40;
+}
